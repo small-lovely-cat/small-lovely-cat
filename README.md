@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A1EAF7&center=true&vCenter=true&width=435&lines=Explore+the+unknown+of+the+era;%E6%8E%A2%E7%B4%A2%E5%96%B5de%E6%9C%AA%E7%9F%A5%E4%B9%8B%E5%A2%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=8CBCF7C6&center=true&vCenter=true&multiline=true&width=435&lines=In+search+of+unknown+era.;%EF%BD%9E%E6%8E%A2%E5%AF%BB%E5%96%B5de%E6%9C%AA%E7%9F%A5%E4%B9%8B%E5%A2%83%EF%BD%9E)](https://git.io/typing-svg)
